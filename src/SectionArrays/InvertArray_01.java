@@ -3,6 +3,10 @@ package SectionArrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+* Exercicios do curso Hora de Codar!
+* Aula de Arrays
+* */
 public class InvertArray_01 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

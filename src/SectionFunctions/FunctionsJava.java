@@ -1,5 +1,8 @@
 package SectionFunctions;
-
+/*
+ * Exercicios do curso Hora de Codar!
+ * Aula de Funcoes.
+ * */
 import java.util.Scanner;
 public class FunctionsJava {
     public static void main(String[] args) {

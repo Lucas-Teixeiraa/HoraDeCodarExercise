@@ -1,7 +1,10 @@
 package SectionsLoops;
 
 import java.util.Scanner;
-
+/*
+ * Exercicios do curso Hora de Codar!
+ * Aula de Loops
+ * */
 public class LoopsJava {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
