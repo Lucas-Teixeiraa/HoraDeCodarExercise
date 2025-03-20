@@ -6,10 +6,10 @@ public class Student {
     private double finalGrade;
 
     //Default Student
-    public Student(){
-        this.name = "Joe Doe";
-        this.studenteID = "21899992";
-        this.finalGrade = 70.0;
+    public Student(String name, String studenteID, double finalGrade){
+        this.name = name;
+        this.studenteID = studenteID;
+        this.finalGrade = finalGrade;
     }
 
 
@@ -38,11 +38,11 @@ public class Student {
     }
 
 
-    public void validateStudente(){
-        if(!this.studenteID.isEmpty()){
+    public void validateStudent(){
+        if(this.studenteID.trim().isEmpty()){
             System.out.println("Student ID can not be empty");
         }
-        if(!this.name.isEmpty()){
+        if(this.name.trim().isEmpty()){
             System.out.println("Student name can not be empty");
         }
     }
