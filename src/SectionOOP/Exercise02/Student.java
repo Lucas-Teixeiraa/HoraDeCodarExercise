@@ -1,4 +1,4 @@
-package SectionPOO.Exercise02;
+package SectionOOP.Exercise02;
 
 public class Student {
     private String name;

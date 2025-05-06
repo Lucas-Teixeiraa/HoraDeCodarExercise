@@ -1,4 +1,4 @@
-package SectionPOO.Exercise01;
+package SectionOOP.Exercise01;
 
 import java.util.Scanner;
 
