@@ -23,7 +23,7 @@ Marque os itens conforme for concluindo! ✅
 ✔️ **Programação Orientada a Objetos (POO)**
 - [✅] Classes e Objetos
 - [✅] Encapsulamento, Herança e Polimorfismo
-- [ ] Interfaces e Classes Abstratas
+- [✅] Interfaces e Classes Abstratas
 - [ ] Manipulação de Exceções (try/catch, throws)
 - [ ] Trabalhando com Streams e Arquivos
 - [ ] Generics e Colletions
